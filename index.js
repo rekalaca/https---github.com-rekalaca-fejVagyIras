@@ -1,4 +1,4 @@
-const http = require('http');
+const http = require('http'); //importáljuk a http modult és megadjuk értékül a http változónak
 const fs = require('fs');
 const port = 4444; // Port megadása
 
