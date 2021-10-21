@@ -80,5 +80,5 @@ const server = http.createServer((req, res) => {
 
 // kiirja a port számot is
 server.listen(port, () => {
-    console.log(`Server fut a ${port} porton`);
+    console.log(`A Szerver a fut ${port} porton fut!`);
 })
